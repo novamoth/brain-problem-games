@@ -10,7 +10,7 @@
   --indigo: #6610f2;
   --purple: #6f42c1;
   --pink: #e83e8c;
-  --red: #feaca4;
+  --red: #e55c4f;
   --orange: #fd7e14;
   --yellow: #ffc107;
   --green: #24b47e;
@@ -19,12 +19,12 @@
   --white: #fff;
   --gray: #6c757d;
   --gray-dark: #343a40;
-  --primary: #feaca4;
+  --primary: #e55c4f;
   --secondary: #6c757d;
   --success: #24b47e;
   --info: #46f8ff;
   --warning: #ffc107;
-  --danger: #feaca4;
+  --danger: #e55c4f;
   --light: #fff;
   --dark: #343a40;
   --purple: #6f42c1;
@@ -208,7 +208,7 @@ sup {
 
 /* line 198, node_modules/bootstrap/scss/_reboot.scss */
 a {
-  color: #feaca4;
+  color: #e55c4f;
   text-decoration: none;
   background-color: transparent;
   -webkit-text-decoration-skip: objects;
@@ -3149,7 +3149,7 @@ select.form-control-lg:not([size]):not([multiple]),
   width: 100%;
   margin-top: 0.25rem;
   font-size: 80%;
-  color: #feaca4;
+  color: #e55c4f;
 }
 
 /* line 38, node_modules/bootstrap/scss/mixins/_forms.scss */
@@ -3173,7 +3173,7 @@ select.form-control-lg:not([size]):not([multiple]),
 .form-control.is-invalid,
 .was-validated .custom-select:invalid,
 .custom-select.is-invalid {
-  border-color: #feaca4;
+  border-color: #e55c4f;
 }
 
 /* line 59, node_modules/bootstrap/scss/mixins/_forms.scss */
@@ -3181,7 +3181,7 @@ select.form-control-lg:not([size]):not([multiple]),
 .form-control.is-invalid:focus,
 .was-validated .custom-select:invalid:focus,
 .custom-select.is-invalid:focus {
-  border-color: #feaca4;
+  border-color: #e55c4f;
   -webkit-box-shadow: 0 0 0 0.2rem rgba(189, 8, 28, 0.25);
   box-shadow: 0 0 0 0.2rem rgba(189, 8, 28, 0.25);
 }
@@ -3209,7 +3209,7 @@ select.form-control-lg:not([size]):not([multiple]),
 /* line 84, node_modules/bootstrap/scss/mixins/_forms.scss */
 .was-validated .form-check-input:invalid~.form-check-label,
 .form-check-input.is-invalid~.form-check-label {
-  color: #feaca4;
+  color: #e55c4f;
 }
 
 /* line 88, node_modules/bootstrap/scss/mixins/_forms.scss */
@@ -3223,7 +3223,7 @@ select.form-control-lg:not([size]):not([multiple]),
 /* line 98, node_modules/bootstrap/scss/mixins/_forms.scss */
 .was-validated .custom-control-input:invalid~.custom-control-label,
 .custom-control-input.is-invalid~.custom-control-label {
-  color: #feaca4;
+  color: #e55c4f;
 }
 
 /* line 101, node_modules/bootstrap/scss/mixins/_forms.scss */
@@ -3256,7 +3256,7 @@ select.form-control-lg:not([size]):not([multiple]),
 /* line 129, node_modules/bootstrap/scss/mixins/_forms.scss */
 .was-validated .custom-file-input:invalid~.custom-file-label,
 .custom-file-input.is-invalid~.custom-file-label {
-  border-color: #feaca4;
+  border-color: #e55c4f;
 }
 
 /* line 132, node_modules/bootstrap/scss/mixins/_forms.scss */
@@ -3461,8 +3461,8 @@ fieldset:disabled a.btn {
 /* line 64, node_modules/bootstrap/scss/_buttons.scss */
 .btn-primary {
   color: #fff;
-  background-color: #feaca4;
-  border-color: #feaca4;
+  background-color: #e55c4f;
+  border-color: #e55c4f;
 }
 
 /* line 13, node_modules/bootstrap/scss/mixins/_hover.scss */
@@ -3483,8 +3483,8 @@ fieldset:disabled a.btn {
 .btn-primary.disabled,
 .btn-primary:disabled {
   color: #fff;
-  background-color: #feaca4;
-  border-color: #feaca4;
+  background-color: #e55c4f;
+  border-color: #e55c4f;
 }
 
 /* line 36, node_modules/bootstrap/scss/mixins/_buttons.scss */
@@ -3691,8 +3691,8 @@ fieldset:disabled a.btn {
 /* line 64, node_modules/bootstrap/scss/_buttons.scss */
 .btn-danger {
   color: #fff;
-  background-color: #feaca4;
-  border-color: #feaca4;
+  background-color: #e55c4f;
+  border-color: #e55c4f;
 }
 
 /* line 13, node_modules/bootstrap/scss/mixins/_hover.scss */
@@ -3713,8 +3713,8 @@ fieldset:disabled a.btn {
 .btn-danger.disabled,
 .btn-danger:disabled {
   color: #fff;
-  background-color: #feaca4;
-  border-color: #feaca4;
+  background-color: #e55c4f;
+  border-color: #e55c4f;
 }
 
 /* line 36, node_modules/bootstrap/scss/mixins/_buttons.scss */
@@ -4196,17 +4196,17 @@ fieldset:disabled a.btn {
 
 /* line 70, node_modules/bootstrap/scss/_buttons.scss */
 .btn-outline-primary {
-  color: #feaca4;
+  color: #e55c4f;
   background-color: transparent;
   background-image: none;
-  border-color: #feaca4;
+  border-color: #e55c4f;
 }
 
 /* line 63, node_modules/bootstrap/scss/mixins/_buttons.scss */
 .btn-outline-primary:hover {
   color: #fff;
-  background-color: #feaca4;
-  border-color: #feaca4;
+  background-color: #e55c4f;
+  border-color: #e55c4f;
 }
 
 /* line 69, node_modules/bootstrap/scss/mixins/_buttons.scss */
@@ -4219,7 +4219,7 @@ fieldset:disabled a.btn {
 /* line 74, node_modules/bootstrap/scss/mixins/_buttons.scss */
 .btn-outline-primary.disabled,
 .btn-outline-primary:disabled {
-  color: #feaca4;
+  color: #e55c4f;
   background-color: transparent;
 }
 
@@ -4228,8 +4228,8 @@ fieldset:disabled a.btn {
 .btn-outline-primary:not(:disabled):not(.disabled).active,
 .show>.btn-outline-primary.dropdown-toggle {
   color: #fff;
-  background-color: #feaca4;
-  border-color: #feaca4;
+  background-color: #e55c4f;
+  border-color: #e55c4f;
 }
 
 /* line 87, node_modules/bootstrap/scss/mixins/_buttons.scss */
@@ -4426,17 +4426,17 @@ fieldset:disabled a.btn {
 
 /* line 70, node_modules/bootstrap/scss/_buttons.scss */
 .btn-outline-danger {
-  color: #feaca4;
+  color: #e55c4f;
   background-color: transparent;
   background-image: none;
-  border-color: #feaca4;
+  border-color: #e55c4f;
 }
 
 /* line 63, node_modules/bootstrap/scss/mixins/_buttons.scss */
 .btn-outline-danger:hover {
   color: #fff;
-  background-color: #feaca4;
-  border-color: #feaca4;
+  background-color: #e55c4f;
+  border-color: #e55c4f;
 }
 
 /* line 69, node_modules/bootstrap/scss/mixins/_buttons.scss */
@@ -4449,7 +4449,7 @@ fieldset:disabled a.btn {
 /* line 74, node_modules/bootstrap/scss/mixins/_buttons.scss */
 .btn-outline-danger.disabled,
 .btn-outline-danger:disabled {
-  color: #feaca4;
+  color: #e55c4f;
   background-color: transparent;
 }
 
@@ -4458,8 +4458,8 @@ fieldset:disabled a.btn {
 .btn-outline-danger:not(:disabled):not(.disabled).active,
 .show>.btn-outline-danger.dropdown-toggle {
   color: #fff;
-  background-color: #feaca4;
-  border-color: #feaca4;
+  background-color: #e55c4f;
+  border-color: #e55c4f;
 }
 
 /* line 87, node_modules/bootstrap/scss/mixins/_buttons.scss */
@@ -4933,7 +4933,7 @@ fieldset:disabled a.btn {
 /* line 81, node_modules/bootstrap/scss/_buttons.scss */
 .btn-link {
   font-weight: 400;
-  color: #feaca4;
+  color: #e55c4f;
   background-color: transparent;
 }
 
@@ -5245,7 +5245,7 @@ input[type="button"].btn-block {
 .dropdown-item:active {
   color: #fff;
   text-decoration: none;
-  background-color: #feaca4;
+  background-color: #e55c4f;
 }
 
 /* line 136, node_modules/bootstrap/scss/_dropdown.scss */
@@ -5646,7 +5646,7 @@ input[type="button"].btn-block {
 /* line 27, node_modules/bootstrap/scss/_custom-forms.scss */
 .custom-control-input:checked~.custom-control-label::before {
   color: #fff;
-  background-color: #feaca4;
+  background-color: #e55c4f;
 }
 
 /* line 33, node_modules/bootstrap/scss/_custom-forms.scss */
@@ -5715,7 +5715,7 @@ input[type="button"].btn-block {
 
 /* line 104, node_modules/bootstrap/scss/_custom-forms.scss */
 .custom-checkbox .custom-control-input:checked~.custom-control-label::before {
-  background-color: #feaca4;
+  background-color: #e55c4f;
 }
 
 /* line 107, node_modules/bootstrap/scss/_custom-forms.scss */
@@ -5725,7 +5725,7 @@ input[type="button"].btn-block {
 
 /* line 113, node_modules/bootstrap/scss/_custom-forms.scss */
 .custom-checkbox .custom-control-input:indeterminate~.custom-control-label::before {
-  background-color: #feaca4;
+  background-color: #e55c4f;
 }
 
 /* line 117, node_modules/bootstrap/scss/_custom-forms.scss */
@@ -5750,7 +5750,7 @@ input[type="button"].btn-block {
 
 /* line 142, node_modules/bootstrap/scss/_custom-forms.scss */
 .custom-radio .custom-control-input:checked~.custom-control-label::before {
-  background-color: #feaca4;
+  background-color: #e55c4f;
 }
 
 /* line 145, node_modules/bootstrap/scss/_custom-forms.scss */
@@ -5925,7 +5925,7 @@ input[type="button"].btn-block {
   width: 1rem;
   height: 1rem;
   margin-top: -0.25rem;
-  background-color: #feaca4;
+  background-color: #e55c4f;
   border: 0;
   border-radius: 1rem;
   -webkit-appearance: none;
@@ -5959,7 +5959,7 @@ input[type="button"].btn-block {
 .custom-range::-moz-range-thumb {
   width: 1rem;
   height: 1rem;
-  background-color: #feaca4;
+  background-color: #e55c4f;
   border: 0;
   border-radius: 1rem;
   -moz-appearance: none;
@@ -5992,7 +5992,7 @@ input[type="button"].btn-block {
 .custom-range::-ms-thumb {
   width: 1rem;
   height: 1rem;
-  background-color: #feaca4;
+  background-color: #e55c4f;
   border: 0;
   border-radius: 1rem;
   appearance: none;
@@ -6116,7 +6116,7 @@ input[type="button"].btn-block {
 .nav-pills .nav-link.active,
 .nav-pills .show>.nav-link {
   color: #fff;
-  background-color: #feaca4;
+  background-color: #e55c4f;
 }
 
 /* line 92, node_modules/bootstrap/scss/_nav.scss */
@@ -7118,7 +7118,7 @@ input[type="button"].btn-block {
   padding: 0.5rem 0.75rem;
   margin-left: -1px;
   line-height: 1.25;
-  color: #feaca4;
+  color: #e55c4f;
   background-color: #fff;
   border: 1px solid #dee2e6;
 }
@@ -7162,8 +7162,8 @@ input[type="button"].btn-block {
 .page-item.active .page-link {
   z-index: 1;
   color: #fff;
-  background-color: #feaca4;
-  border-color: #feaca4;
+  background-color: #e55c4f;
+  border-color: #e55c4f;
 }
 
 /* line 57, node_modules/bootstrap/scss/_pagination.scss */
@@ -7247,7 +7247,7 @@ input[type="button"].btn-block {
 /* line 44, node_modules/bootstrap/scss/_badge.scss */
 .badge-primary {
   color: #fff;
-  background-color: #feaca4;
+  background-color: #e55c4f;
 }
 
 /* line 17, node_modules/bootstrap/scss/mixins/_hover.scss */
@@ -7317,7 +7317,7 @@ input[type="button"].btn-block {
 /* line 44, node_modules/bootstrap/scss/_badge.scss */
 .badge-danger {
   color: #fff;
-  background-color: #feaca4;
+  background-color: #e55c4f;
 }
 
 /* line 17, node_modules/bootstrap/scss/mixins/_hover.scss */
@@ -7843,7 +7843,7 @@ input[type="button"].btn-block {
   color: #fff;
   text-align: center;
   white-space: nowrap;
-  background-color: #feaca4;
+  background-color: #e55c4f;
   -webkit-transition: width 0.6s ease;
   transition: width 0.6s ease;
 }
@@ -7961,8 +7961,8 @@ input[type="button"].btn-block {
 .list-group-item.active {
   z-index: 2;
   color: #fff;
-  background-color: #feaca4;
-  border-color: #feaca4;
+  background-color: #e55c4f;
+  border-color: #e55c4f;
 }
 
 /* line 88, node_modules/bootstrap/scss/_list-group.scss */
@@ -9229,7 +9229,7 @@ button.close {
 
 /* line 6, node_modules/bootstrap/scss/mixins/_background-variant.scss */
 .bg-primary {
-  background-color: #feaca4 !important;
+  background-color: #e55c4f !important;
 }
 
 /* line 17, node_modules/bootstrap/scss/mixins/_hover.scss */
@@ -9294,7 +9294,7 @@ button.bg-warning:focus {
 
 /* line 6, node_modules/bootstrap/scss/mixins/_background-variant.scss */
 .bg-danger {
-  background-color: #feaca4 !important;
+  background-color: #e55c4f !important;
 }
 
 /* line 17, node_modules/bootstrap/scss/mixins/_hover.scss */
@@ -9497,7 +9497,7 @@ button.bg-gray200:focus {
 
 /* line 20, node_modules/bootstrap/scss/utilities/_borders.scss */
 .border-primary {
-  border-color: #feaca4 !important;
+  border-color: #e55c4f !important;
 }
 
 /* line 20, node_modules/bootstrap/scss/utilities/_borders.scss */
@@ -9522,7 +9522,7 @@ button.bg-gray200:focus {
 
 /* line 20, node_modules/bootstrap/scss/utilities/_borders.scss */
 .border-danger {
-  border-color: #feaca4 !important;
+  border-color: #e55c4f !important;
 }
 
 /* line 20, node_modules/bootstrap/scss/utilities/_borders.scss */
@@ -14864,7 +14864,7 @@ button.bg-gray200:focus {
 
 /* line 6, node_modules/bootstrap/scss/mixins/_text-emphasis.scss */
 .text-primary {
-  color: #feaca4 !important;
+  color: #e55c4f !important;
 }
 
 /* line 17, node_modules/bootstrap/scss/mixins/_hover.scss */
@@ -14919,7 +14919,7 @@ a.text-warning:focus {
 
 /* line 6, node_modules/bootstrap/scss/mixins/_text-emphasis.scss */
 .text-danger {
-  color: #feaca4 !important;
+  color: #e55c4f !important;
 }
 
 /* line 17, node_modules/bootstrap/scss/mixins/_hover.scss */

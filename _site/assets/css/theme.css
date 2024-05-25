@@ -27,7 +27,7 @@ a,
 }
 
 blockquote {
-  border-left: 7px solid #feaca4;
+  border-left: 7px solid #e55c4f;
   padding-left: 20px;
   margin-left: 20px;
   font-style: italic;
@@ -225,9 +225,9 @@ article .card-body {
 }
 
 .pagination span.webjeda {
-  background: #feaca4;
+  background: #e55c4f;
   color: #fff;
-  border: 1px solid #feaca4;
+  border: 1px solid #e55c4f;
 }
 
 .pagination a,
@@ -241,7 +241,7 @@ article .card-body {
 }
 
 .pagination a {
-  color: #feaca4;
+  color: #e55c4f;
 }
 
 .pagination a:hover {
@@ -314,7 +314,7 @@ article .card-body {
 }
 
 .card-pin.raco:hover i.text-muted {
-  color: #feaca4 !Important;
+  color: #e55c4f !Important;
   transition: all 0.2s;
   position: relative;
 }
