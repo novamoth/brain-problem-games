@@ -12,7 +12,7 @@ Brain Problem Games is a curated list of pieces of media that feature themes of:
 - Dissociation
 - Identity
 
-This list is open for modification. <a href="https://github.com/novamoth/brain-problem-games">Simply submit a Pull Request to the github page, and upon approval, it will automatically be added to the website.</a> If you do not have a github account, you can reach out to me directly at @novamoth on most platforms, but this will be slower.
+This list is open for modification. <a href="https://github.com/novamoth/brain-problem-games">Simply submit a Pull Request to the github page, and upon approval, it will automatically be added to the website.</a> <a href="https://novamoth.github.io/brain-problem-games/example.html">Where possible, adhere to this guide for submissions.</a> If you do not have a github account, you can reach out to me directly at @novamoth on most platforms, but this will be slower.
 
 # FAQs:
 
