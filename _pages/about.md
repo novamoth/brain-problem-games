@@ -6,7 +6,8 @@ image: "/assets/images/large_logo.png"
 
 Brain Problem Games is a curated list of pieces of media that feature themes of:
 
-- Mental Health Issues
+- Mental Health
+- Neurological Disorders
 - (C)PTSD and Trauma
 - Dissociation
 - Identity
@@ -25,4 +26,4 @@ This list is deliberately designed to be extremely broad, and err towards _inclu
 
 ## Just games?
 
-No. This has other pieces of media. But games are my particular specialty.
+No. This has other pieces of media. But games are my particular specialty and interest.
