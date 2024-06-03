@@ -1,35 +1,28 @@
 ---
 title: "About"
 permalink: "/about.html"
-image: "/assets/images/screenshot.jpg"
+image: "/assets/images/large_logo.png"
 ---
 
-Hi, guys! The website you are previewing is a demonstration for Pintereso Jekyll theme and it is hosted on Github pages. There are various ways you can use Pintereso with your Jekyll website. Here are some of them:
+Brain Problem Games is a curated list of pieces of media that feature themes of:
 
-- blogging
-- curated resources
-- affiliate marketing
-- resume
-- portfolio
-- photography
+- Mental Health Issues
+- (C)PTSD and Trauma
+- Dissociation
+- Identity
 
-**Features**
+This list is open for modification. <a href="https://github.com/novamoth/brain-problem-games">Simply submit a Pull Request to the github page, and upon approval, it will automatically be added to the website.</a> If you do not have a github account, you can reach out to me directly at @novamoth on most platforms, but this will be slower.
 
-- 100% Github Pages Compatibility
-- Bootstrap 4.x
-- SEO Integration
-- Search
-- Categories
-- Prev/Next Post
-- Pagination
-- Disqus Comments
-- Sitemap
-- Feed
-- Formspree Contact Form
-- Pinterest, AddThis, Google Analytics
-- Font Awesome 5+
-- Cookie Consent & Privacy Policy
+# FAQs:
 
-Made with <i class="fa fa-heart text-danger"></i> by Sal @wowthemesnet. Thanks for your <a target="_blank" href="https://www.wowthemes.net/freebies-license/">support</a>!
+## "Brain Problems?"
 
-<a class="btn btn-danger" href="https://github.com/wowthemesnet/template-pintereso-bootstrap-jekyll/archive/master.zip"><i class="fa fa-download"></i> pintereso.zip</a> <a target="_blank" class="btn btn-warning" href="https://www.wowthemes.net/donate/"><i class="fa fa-coffee"></i> Buy me a coffee?</a>
+The name is slightly tongue-in-cheek, and is intended to be easy to remember while encompassing the broad scope of the list.
+
+## I disagree with something on this list! / I disagree with a tag!
+
+This list is deliberately designed to be extremely broad, and err towards _including_ an item. Similarly, tags are applied based on best available information, and may differ from authorial intent. This will be noted inside and individual game's entry.
+
+## Just games?
+
+No. This has other pieces of media. But games are my particular specialty.
