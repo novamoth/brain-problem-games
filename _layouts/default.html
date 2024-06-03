@@ -42,7 +42,13 @@
       <a
         class="navbar-brand font-weight-bolder mr-3"
         href="{{site.baseurl}}/index.html"
-        ><img src="{{site.baseurl}}/{{site.logo}}" />
+      >
+        <ul class="navbar-nav mr-auto align-items-center">
+          <img src="{{site.baseurl}}/{{site.logo}}" />
+        </ul>
+        <ul class="navbar-nav mr-auto align-items-center">
+          {% include menu-title.html %}
+        </ul>
       </a>
       <button
         class="navbar-light navbar-toggler"
