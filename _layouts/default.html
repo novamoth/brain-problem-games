@@ -44,7 +44,6 @@
         href="{{site.baseurl}}/index.html"
         ><img src="{{site.baseurl}}/{{site.logo}}" />
       </a>
-      <h1 class="font-weight-bold title">{{site.name}}</h1>
       <button
         class="navbar-light navbar-toggler"
         type="button"
@@ -58,7 +57,7 @@
       </button>
       <div class="collapse navbar-collapse" id="navbarsDefault">
         <ul class="navbar-nav mr-auto align-items-center">
-          {% include menu-title.html %}
+          <h1 class="font-weight-bold title">{{site.name}}</h1>
         </ul>
         <ul class="navbar-nav mr-auto align-items-center">
           {% include search-lunr.html %}
