@@ -1,6 +1,14 @@
 ---
 title: "Hello Charlotte"
-categories: [Trauma, LGBT, Mythical Plurality]
+categories:
+  [
+    Trauma,
+    LGBT,
+    Mythical Plurality,
+    Plurality,
+    Disordered Thought,
+    Mental Health,
+  ]
 image: "/assets/images/hc.gif"
 visit: "https://etherane.weebly.com/"
 ---
