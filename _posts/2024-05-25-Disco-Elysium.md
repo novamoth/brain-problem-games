@@ -1,6 +1,13 @@
 ---
 title: "Disco Elysium"
-categories: [Traumagenic Plurality, Trauma, Plurality, Disordered Thought]
+categories:
+  [
+    Traumagenic Plurality,
+    Trauma,
+    Plurality,
+    Disordered Thought,
+    Highly Reviewed,
+  ]
 image: "/assets/images/de.jpg"
 visit: "https://discoelysium.com/"
 ---

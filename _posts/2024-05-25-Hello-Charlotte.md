@@ -8,6 +8,7 @@ categories:
     Plurality,
     Disordered Thought,
     Mental Health,
+    Nova Loves,
   ]
 image: "/assets/images/hc.gif"
 visit: "https://etherane.weebly.com/"
