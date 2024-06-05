@@ -8,12 +8,16 @@ categories:
     Plurality,
     Disordered Thought,
     Mental Health,
+    Highly Reviewed,
+    Hidden Gem,
     Nova Loves,
   ]
 image: "/assets/images/hc.gif"
 visit: "https://etherane.weebly.com/"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed maximus orci et nulla consequat feugiat id porta augue. Curabitur tempus sem vel laoreet vehicula. Integer ut arcu ac mi auctor molestie non at ipsum. Donec ut convallis turpis, eu euismod arcu. Cras justo nisi, porttitor non elit ac, molestie consectetur ante. Maecenas mollis magna leo, at viverra risus suscipit et.
+It's rare that a game gets both "highly reviewed" and "hidden gem", but this deserves both. No one I've spoken to seems to know this series, and yet it has an Overwhelmingly Positive review score on steam. This series is near and dear to my heart, and manages a complex narrative that begs to be examined in detail. There's strong implication that the creator, Etherane, is trans and plural themselves (though they are not very public), and it shows in the painful, evocative writing.
 
-<details><summary>Spoilers</summary>Vestibulum non sapien nec urna condimentum pretium in ut justo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras semper nisi dolor, vitae tempus dui suscipit eget. Donec eget porttitor purus. Maecenas pulvinar at neque vel gravida. Aliquam erat volutpat. Proin interdum lacinia orci at ullamcorper. In ex velit, lacinia eget ante nec, mattis iaculis est.</details>
+<details><summary>Spoilers (Limited to game 1)</summary>The first game begins as a surreal exploration game similar to Yume Nikki. The main character, Charlotte Wiltshire, is implied to have Schizophrenia and, at the end of the first game, is possessed by the spirit of an "Oracle", a Godlike figure. The following games in the series add additional layers of unreliable narration and complexity, turning the series into a painful tale of a mentally ill transgirl, and an intense interrogation of the player.</details>
+
+Overall, I've never seen a game that hits upon these topics in a more evocative way.
