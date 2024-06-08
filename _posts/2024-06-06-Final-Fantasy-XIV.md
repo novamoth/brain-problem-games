@@ -9,7 +9,7 @@ categories:
     Highly Reviewed,
     Nova Loves,
   ]
-image: "/assets/images/frey.png"
+image: "/assets/images/fray.png"
 visit: "https://www.finalfantasyxiv.com/"
 ---
 
