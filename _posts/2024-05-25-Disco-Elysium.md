@@ -3,7 +3,7 @@ title: "Disco Elysium"
 categories:
   [
     Traumagenic Plurality,
-    LGBT
+    LGBT,
     Trauma,
     Plurality,
     Disordered Thought,

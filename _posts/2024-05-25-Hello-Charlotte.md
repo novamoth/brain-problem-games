@@ -9,7 +9,6 @@ categories:
     Disordered Thought,
     Mental Health,
     Highly Reviewed,
-    Hidden Gem,
     Nova Loves,
   ]
 image: "/assets/images/hc.gif"

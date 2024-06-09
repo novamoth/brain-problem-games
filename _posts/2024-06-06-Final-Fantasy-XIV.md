@@ -5,7 +5,7 @@ categories:
     Trauma,
     Plurality,
     Traumagenic Plurality,
-    Fantasy Plurality,
+    Mythical Plurality,
     Highly Reviewed,
     Nova Loves,
   ]
