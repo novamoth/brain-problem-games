@@ -22,7 +22,7 @@ The name is slightly tongue-in-cheek, and is intended to be easy to remember whi
 
 ## What makes a game qualify / I disagree with something included!
 
-This list is deliberately designed to be extremely broad, and err towards _including_ an item. Similarly, tags are applied based on best available information, and may differ from authorial intent. This will be noted inside and individual game's entry.
+This list is deliberately designed to be extremely broad, and err towards _including_ an item as long as it fits the "vibe" of the list. Similarly, tags are applied based on best available information, and may differ from authorial intent. This will be noted inside and individual game's entry.
 As a general rule, however, the work needs to give sufficient attention and detail to the character's "brain problem". As an example, in a fictional JRPG, the main character has their home village destroyed. If they brush this off and proceed towards their magical adventure, it would not be included on this list. If the main character has hallucinations of fire or reoccurring nightmares, it would be included on this list.
 
 ## Just games?
