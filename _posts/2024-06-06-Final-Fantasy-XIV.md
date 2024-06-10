@@ -14,7 +14,7 @@ image: "/assets/images/fray.png"
 visit: "https://www.finalfantasyxiv.com/"
 ---
 
-It is very hard to discuss Final Fantasy XIV due to its nature as an MMO. It is extremely large, and each different storyline may have had a significantly different writing team. As a result, I'll give broad statements, and then delve into specific spoilers for major questlines.
+It is very hard to discuss Final Fantasy XIV due to its nature as an MMO. It is extremely large, and each different storyline may have had a completely different writing team. As a result, I'll give broad statements, and then delve into specific spoilers for major questlines.
 
 Final Fantasy XIV has overarching themes about faith and emotion that begin as small details, and build into the major themes of the game. In the early main storyline, individuals invoke their gods out of grief or fury, and have their calls answered in a tragic way. As the plot progresses, this builds into direct discussion about mental health.
 

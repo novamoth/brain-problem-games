@@ -16,7 +16,7 @@ image: "/assets/images/hc.gif"
 visit: "https://etherane.weebly.com/"
 ---
 
-No one I've spoken to seems to know this series, and yet it has an Overwhelmingly Positive review score on steam. This series is near and dear to my heart, and manages a complex narrative that begs to be examined in detail. There's strong implication that the creator, Etherane, is trans and plural themselves (though they are not a very public person, so don't expect to find evidence of this anywhere), and it shows in the painful, evocative writing.
+No one I've spoken to seems to know this series, and yet it has an _Overwhelmingly Positive_ review score on Steam. This series is near and dear to my heart, and manages a complex narrative that begs to be examined in detail. The creator, Etherane, is likely (based on developer commentary) trans and plural themselves (though they are not a very public person, so they offer no explicit confirmation), and it shows in the painful, evocative writing.
 
 "Charlotte Wiltshire is an unreliable narrator."
 
