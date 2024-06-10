@@ -7,6 +7,7 @@ categories:
     Fantasy Plurality,
     Highly Reviewed,
     Nova Loves,
+    Indie,
   ]
 image: "/assets/images/pleasedont.png"
 visit: "https://blacktabbygames.com/press-stp"

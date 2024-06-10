@@ -8,6 +8,7 @@ categories:
     Disordered Thought,
     Highly Reviewed,
     Nova Loves,
+    Not Indie,
   ]
 image: "/assets/images/pm.png"
 visit: "https://store.steampowered.com/search/?developer=ProjectMoon"

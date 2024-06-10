@@ -7,6 +7,7 @@ categories:
     Disordered Thought,
     Highly Reviewed,
     Nova Loves,
+    Indie,
   ]
 image: "/assets/images/yumenikki.jpg"
 visit: "https://store.steampowered.com/app/650700/Yume_Nikki/"

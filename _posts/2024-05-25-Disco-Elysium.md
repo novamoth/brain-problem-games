@@ -8,6 +8,7 @@ categories:
     Plurality,
     Disordered Thought,
     Highly Reviewed,
+    Indie,
   ]
 image: "/assets/images/de.jpg"
 visit: "https://discoelysium.com/"

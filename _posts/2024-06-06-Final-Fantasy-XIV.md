@@ -8,6 +8,7 @@ categories:
     Fantasy Plurality,
     Highly Reviewed,
     Nova Loves,
+    Not Indie,
   ]
 image: "/assets/images/fray.png"
 visit: "https://www.finalfantasyxiv.com/"

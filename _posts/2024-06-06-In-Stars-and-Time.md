@@ -10,6 +10,7 @@ categories:
     Fantasy Plurality,
     Highly Reviewed,
     Nova Loves,
+    Indie,
   ]
 image: "/assets/images/isat.jpg"
 visit: "https://www.instarsandtime.com/"

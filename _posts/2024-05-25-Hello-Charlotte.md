@@ -10,6 +10,7 @@ categories:
     Mental Health,
     Highly Reviewed,
     Nova Loves,
+    Indie,
   ]
 image: "/assets/images/hc.gif"
 visit: "https://etherane.weebly.com/"
@@ -19,6 +20,6 @@ It's rare that a game gets both "highly reviewed" and "hidden gem", but this des
 
 "Charlotte Wiltshire is an unreliable narrator."
 
-<details><summary>Spoilers (Limited to game 1)</summary>The first game begins as a surreal exploration game similar to Yume Nikki. The main character, Charlotte Wiltshire, is implied to have Schizophrenia and, at the end of the first game, is possessed by the spirit of an "Oracle", a Godlike figure. The following games in the series add additional layers of unreliable narration and complexity, turning the series into a painful tale of a mentally ill transgirl, and an intense interrogation of the player.</details>
+<details><summary>Light Spoilers (Limited to game 1)</summary>The first game begins as a surreal exploration game similar to Yume Nikki. The main character, Charlotte Wiltshire, is implied to have Schizophrenia and, at the end of the first game, is possessed by the spirit of an "Oracle", a Godlike figure. The following games in the series add additional layers of unreliable narration and complexity, turning the series into a painful tale of a mentally ill transgirl, and an intense interrogation of the player.</details>
 
 Overall, I've never seen a game that hits upon these topics in a more evocative way.
