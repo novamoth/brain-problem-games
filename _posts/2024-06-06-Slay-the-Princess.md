@@ -4,7 +4,7 @@ categories:
   [
     Trauma,
     Plurality,
-    Mythical Plurality,
+    Fantasy Plurality,
     Highly Reviewed,
     Nova Loves,
   ]
